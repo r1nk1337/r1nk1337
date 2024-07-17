@@ -1,4 +1,4 @@
-[![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)](https://github.com/r1nk1337)
+[![MasterHead]([https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif))](https://github.com/r1nk1337)
 <img align= "righ" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 <h1 align="center">Hi 👋, I'm Mario Marton</h1>
 <h3 align="center">A Front-End Developer from Ukraine🇺🇦</h3>

@@ -1,6 +1,6 @@
 [![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczNOWzREOhqKvVAw-vCFLl_mR_CNZzL1RNy4pxKPlTiePLn0wCeLQe19HwbuwfP_Ug1DHCBulZkwEb8h7ABnVyuO1AWY_PusWhDzDf1q94YH4Egb80dHr5Yj6WNdH2iKHPdDdGNLdSCWTcoRBk1N4oNChdJtFuKWGrJxM3UPkC36BX6QDiJhD5SgRFdgcxd7JWMJfQfm6HqUtUKF4KCsAkaYeIEnTSsFSP_BCUmEW0aIiXgXuOffTMR82diXBTj-KJ8svlMmjfSteHWluwdpXAYDHDmjJs8VoBNUdOGDY9XjvmEyN0sFLrN0Y2lV_kVpoAaJ8_yWjro4tBGsVZKpAzeV6Rb-QhTIP92yG9f5iwghFdhy9qb48wddZWzVfEMOe0gRG7taFiNU3SA34w1hNAJknA8arngVxnMuE2R1CM2fDSI8vh3dI1SqyPNhDFDwzSPfzG_T-pR2jU_OGIMr202FworhMEV9oPWs7FzI007svoqg430gBkIk-IMvsnwgyKXfsgkBH20lRBlBtCWDtpbTWSll30-Hrcq_NhJlg-trkUU2PEi4ksu1cZMc7NT09cciOWHE7lkNQcamMFUyvNcHSq8OD_WCMW8IIMIX5PrA6jZPjow0ts13f_KbFoiwP1Q5Yl1ddSflLTLtBfupUOt2yrUjsDzoQlEaaKS03S_aN0v_5phJptt_o1L4kPb1GApP1jnIPyFi8KlY1vp52xTMHRxvIfp3m4EdtK6j6z17BbsdLUpgO-h6AmWHbModvtyE_M5sOzG52q4t8vWkPdwC86CMDFaRS2UYKccKTiNGjvqFOPrpwToti9-TTxCjX6GUf4qOsK9rRtjPunoQ2ZZEDEzFBQO-f9K-XswtziIRfw_5lTJJwC_W3WAQIywyeO2SkWkreZLLZfXqrrNnuIbF4KdG5WzNSlZCbQwVa21Ok-Nlg8hBjfo7dcGVbYftl6W8z9jNcHFCcSpFBl2RvUxq4V2O5Os=w1000-h300-s-no?authuser=0)](https://github.com/r1nk1337)
 <img align= "righ" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
-<h1 align="center">Hi 👋, I'm Mario Marton</h1>
+<h1 align="center">sup 👋, my name is Mario Marton</h1>
 <h3 align="center">A Front-End Developer from Ukraine🇺🇦</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-93.gif">
 

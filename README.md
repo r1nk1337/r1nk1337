@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/04/e3/67/04e3675a5671fdaf1e85ec18c494e9c0.jpg)](https://github.com/r1nk1337)
+[![MasterHead](https://photos.app.goo.gl/Eb49JF9Cec4WEBqv6)](https://github.com/r1nk1337)
 <img align= "righ" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 <h1 align="center">Hi 👋, I'm Mario Marton</h1>
 <h3 align="center">A Front-End Developer from Ukraine🇺🇦</h3>

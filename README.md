@@ -2,7 +2,7 @@
 <img align= "righ" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 <h1 align="center">sup 👋, my name is Mario Marton</h1>
 <h3 align="center">A Front-End Developer from Ukraine🇺🇦</h3>
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=50&duration=3000&pause=20&color=F7F7F7&background=B18CFE&center=true&vCenter=true&multiline=true&height=350&lines=Hi+there!;I'm+r1nk%2C;Html+pro+dev%2C;Cool+dude+idk%2C;Pls+star)%2C;And+follow+me!" alt="Typing SVG">
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=50&duration=3000&pause=20&color=F7F7F7&background=B18CFE&center=true&vCenter=true&multiline=true&height=350&lines=Hi+there!;I'm+r1nk%2C;Html+pro+dev%2C;Cool+dude+idk%2C;Pls+star)%2C;And+follow+me!" alt="Typing SVG">
 
 - 👨‍💻 I’m currently working on [Code Chart](https://www.figma.com/design/hEyEEeOtgMb1mitfrTCmDJ/Code-chart-p1?m=auto&t=Ft8efSLfP7wgTTqM-6)
 

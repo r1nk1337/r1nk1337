@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on [Code Chart](https://www.figma.com/design/hEyEEeOtgMb1mitfrTCmDJ/Code-chart-p1?m=auto&t=Ft8efSLfP7wgTTqM-6)
 
-- 🧑‍🎓 I’m currently learning **Type Script, React, sCss, Bash.**
+- 🧑‍🎓 I’m currently learning **React, sCss, Bash.**
 
 - 💬 Ask me about **JS Native**
 

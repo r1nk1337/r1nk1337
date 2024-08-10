@@ -16,10 +16,10 @@
 <a href='marton4ikmario@gmail.com'>
 <img src ='https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white&style=for-the-badge' width='150'>
 </a>
-<a href='https://www.instagram.com'>
+<a href='https://www.instagram.com/martonn4' target='_blank'>
 <img src ='https://img.shields.io/badge/Instagram-page-purple?logo=instagram&logoColor=white&style=for-the-badge' width='217'>
 </a>
-<a href='https://x.com'>
+<a href='https://x.com/r1nk1337off?t=o0AVGm9gTO6NK8xzPf8H5g&s=09'>
 <img src ='https://img.shields.io/badge/X(Twitter)-page-black?logo=x&logoColor=white&style=for-the-badge' width='220'>
 </a>
   

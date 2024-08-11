@@ -58,7 +58,7 @@
 
 **WEB**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,django,nodejs,react,vue,redux,firebase,gcp,aws,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,firebase&theme=dark)](https://skillicons.dev)
 
 **Editors,IDE,Apps**
 

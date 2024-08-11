@@ -13,7 +13,7 @@
 
 <div align='center'>
 
-<a href='marton4ikmario@gmail.com'>
+<a href='[marton4ikmario@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=marton4ikmario%40gmail.com)'>
 <img src ='https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white&style=for-the-badge' width='150'>
 </a>
 <a href='https://www.instagram.com/martonn4' target='_blank'>

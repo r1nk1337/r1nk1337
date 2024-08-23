@@ -69,4 +69,3 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,yarn,git,npm&theme=dark)](https://skillicons.dev)
 
 </div>
-.

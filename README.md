@@ -62,7 +62,7 @@
 
 **Editors,IDE,Apps**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,pycharm,webstorm,figma,ai,blender,photoshop&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,pycharm,figma,ai&theme=dark)](https://skillicons.dev)
 
 **Terminal**
 

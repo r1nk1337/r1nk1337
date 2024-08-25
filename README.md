@@ -48,24 +48,12 @@
 
 ---
 
-# Tools🛠️
+# Tech Stack🛠️
 
 <div align='center'>
 
-**OS**
+[![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,ubuntu,arch&theme=dark)](https://skillicons.dev)
-
-**WEB**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,firebase&theme=dark)](https://skillicons.dev)
-
-**Editors,IDE,Apps**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,pycharm,figma,ai&theme=dark)](https://skillicons.dev)
-
-**Terminal**
-
-[![My Skills](https://skillicons.dev/icons?i=bash,yarn,git,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,bash,npm,docker,git&theme=dark)](https://skillicons.dev)
 
 </div>

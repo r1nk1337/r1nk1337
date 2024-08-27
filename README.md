@@ -64,9 +64,9 @@
 
 <div align='center'>
 
-![ETHERIUM](https://img.shields.io/badge/ETH-0x5991E5aba8881acA01b40573054589B3B2ac491C-purple?logo=ethereum&logoColor=white&style=for-the-badge)
+![ETH](https://img.shields.io/badge/ETH-0x5991E5aba8881acA01b40573054589B3B2ac491C-purple?logo=ethereum&logoColor=white&style=for-the-badge)
 
-![BITCOIN](https://img.shields.io/badge/BTC-bc1q4cp97qlzksypjxa8m0y7j0xp8lyzpzks5jxyd8-yellow?logo=bitcoin&logoColor=white&style=for-the-badge)
+![BTC](https://img.shields.io/badge/BTC-bc1q4cp97qlzksypjxa8m0y7j0xp8lyzpzks5jxyd8-yellow?logo=bitcoin&logoColor=white&style=for-the-badge)
 
 </div>
 

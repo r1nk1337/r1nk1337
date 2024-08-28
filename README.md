@@ -60,7 +60,7 @@
 
 ---
 
-# Support Me(Trust Wallet)💸
+# Support Me(Trust)💸
 
 <div align='center'>
 

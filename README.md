@@ -54,7 +54,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,bash,npm,docker,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,npm,docker,git&theme=dark)](https://skillicons.dev)
 
 </div>
 

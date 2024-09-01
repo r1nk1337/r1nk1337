@@ -52,9 +52,9 @@
 
 <div align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)]()
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,npm,docker,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,vite,docker,git&theme=dark)]()
 
 </div>
 

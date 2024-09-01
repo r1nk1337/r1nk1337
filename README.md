@@ -27,12 +27,14 @@
 
 ---
 
-# Spotify Stats <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-spotify-symbol-3.png" width='50'>
+# Tech Stack🛠️
 
 <div align='center'>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hbayahl3tbws6gfo4b7jvm6gxu)
-  
+[![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)]()
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,vite,docker,git&theme=dark)]()
+
 </div>
 
 ---
@@ -48,14 +50,12 @@
 
 ---
 
-# Tech Stack🛠️
+# Spotify Stats <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-spotify-symbol-3.png" width='50'>
 
 <div align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)]()
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,vite,docker,git&theme=dark)]()
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hbayahl3tbws6gfo4b7jvm6gxu)
+  
 </div>
 
 ---

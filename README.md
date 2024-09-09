@@ -68,7 +68,7 @@
 
 ![BTC](https://img.shields.io/badge/BTC-bc1q4cp97qlzksypjxa8m0y7j0xp8lyzpzks5jxyd8-yellow?logo=bitcoin&logoColor=white&style=for-the-badge)
 
-# or buy me a coffe
+**or buy me a coffe**
 
 ![coffe](https://img.shields.io/badge/buy-coffe☕-black?logo=ethereum&logoColor=white&style=for-the-badge)
 

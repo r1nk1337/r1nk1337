@@ -70,7 +70,7 @@
 
 # or buy me a coffe
 
-![coffe](https://img.shields.io/badge/buy-me a coffe☕-black?logo=ethereum&logoColor=white&style=for-the-badge)
+![coffe](https://img.shields.io/badge/buy-me-a-coffe☕-black?logo=ethereum&logoColor=white&style=for-the-badge)
 
 </div>
 

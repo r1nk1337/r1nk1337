@@ -70,7 +70,7 @@
 
 # or buy me a coffe
 
-![buy me a coffe](https://www.buymeacoffee.com/r1nk)
+<a href="https://www.buymeacoffee.com/r1nk">Buy me a coffe☕<\a>
 
 </div>
 

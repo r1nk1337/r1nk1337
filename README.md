@@ -70,7 +70,7 @@
 
 # or buy me a coffe
 
-<a href="https://www.buymeacoffee.com/r1nk">Buy me a coffe☕<\a>
+![BTC](https://img.shields.io/badge/buy-me a coffe☕-black?logo=buymeacoffe&logoColor=white&style=for-the-badge)
 
 </div>
 

@@ -72,7 +72,9 @@
 
 <a href="https://www.buymeacoffee.com/r1nk">
 
-<img src="https://img.shields.io/badge/Buy-Coffe☕-black?logo=bitcoin&logoColor=white&style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/Buy-Coffe☕-black?logo=bitcoin&logoColor=white&style=for-the-badge">
+
+</a>
 
 </div>
 

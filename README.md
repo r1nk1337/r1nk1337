@@ -74,6 +74,26 @@
 
 </div>
 
+<div align='center'>
+
+**Or via crypto**
+<div>
+
+USDT(ERC20):
+
+  ```bash
+0x5991E5aba8881acA01b40573054589B3B2ac491C
+```
+
+
+USDT(TRC20):
+
+  ```bash
+TNff56ZAkyCiq8rxB5DYP8uVj7mTERr3iF
+```
+
+</div>
+
 <div align="center">
 
 <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer' width='1000'>

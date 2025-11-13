@@ -27,42 +27,25 @@
 
 ---
 
-# Tech Stack🛠️
+# 🛠️Tech Stack
 
-<div align='center'>
+<div >
 
-[![My Skills](https://skillicons.dev/icons?i=scss,ts,python,nodejs,react&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=git,ts,react&theme=dark)]()
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,vite,docker,git&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=firebase,tailwind,vite&theme=dark)]()
 
-</div>
+# 🧑‍🎓Learning new technologies
 
----
+[![My Skills](https://skillicons.dev/icons?i=golang,docker,redis&theme=dark)]()
 
-# GitHub Stats <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png' width='40'>
-
-<div align='center'>
-  
-<!--[![r1nk's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=r1nk1337&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/r1nk1337/github-readme-stats#gh-dark-mode-only)-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r1nk1337&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
----
-
-# Spotify Stats <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-spotify-symbol-3.png" width='50'>
-
-<div align='center'>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hbayahl3tbws6gfo4b7jvm6gxu)
-  
 </div>
 
 ---
 
 # Support Me💸
 
-<div align='center'>
+<div>
 
 **Buy me a coffe**
 
@@ -74,7 +57,7 @@
 
 </div>
 
-<div align='center'>
+<div>
 
 **Or via crypto**
 <div>
